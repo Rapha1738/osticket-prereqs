@@ -419,7 +419,6 @@ Then type in osTicket and click OK
 <img src="https://i.imgur.com/bPMtqKS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
 </p>
 <br />
 after That it should take you here. make the Database,Username, and Password are correct then press Install Now
