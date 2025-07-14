@@ -198,7 +198,7 @@ we then make sure everything is checkmarked then click finish
 <br />
 
 <p>
-<img src="https://i.imgur.com/JTBTlN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20160344.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It will then bring us here. we will click on PHP manager
