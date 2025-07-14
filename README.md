@@ -325,7 +325,7 @@ Make sure these exact extensions are Enabled
 <br />
 
 <p>
-<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181925.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20183404.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now it should show the majority checkmarked except for the bottom two.
@@ -392,7 +392,7 @@ Launch HeidiSQL then click Finish
 <br />
 
 <p>
-<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190441.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190537.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It will then take you here. make sure you put in the user and password. they should both be "root", then press open
