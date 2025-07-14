@@ -206,7 +206,7 @@ It will then bring us here. we will click on PHP manager
 <br />
 
 <p>
-<img src="https://i.imgur.com/PofXrSk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20161023.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 click on Register new PHP version
@@ -214,7 +214,7 @@ click on Register new PHP version
 <br />
 
 <p>
-<img src="https://i.imgur.com/8DD5COC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20161138.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then click on the php-cgi folder
@@ -222,7 +222,7 @@ Then click on the php-cgi folder
 <br />
 
 <p>
-<img src="https://i.imgur.com/aqLZwFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20161149.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 once it shows this press OK
@@ -230,7 +230,7 @@ once it shows this press OK
 <br />
 
 <p>
-<img src="https://i.imgur.com/NyqIerE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20161357.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will stop the server then start the sever after a few seconds
@@ -238,7 +238,7 @@ Next we will stop the server then start the sever after a few seconds
 <br />
 
 <p>
-<img src="https://i.imgur.com/vJjwnvT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20162058.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will go back to files then extract the osTicket-v1.15.8 folder
@@ -246,7 +246,7 @@ Next we will go back to files then extract the osTicket-v1.15.8 folder
 <br />
 
 <p>
-<img src="https://i.imgur.com/rNIFL7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20172854.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Extract It
@@ -254,7 +254,7 @@ Extract It
 <br />
 
 <p>
-<img src="https://i.imgur.com/buZRrgj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20180258.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next click on the Inetpub folder
@@ -262,7 +262,7 @@ Next click on the Inetpub folder
 <br />
 
 <p>
-<img src="https://i.imgur.com/7GkVoPL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20180324.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then click on wwwroot
@@ -270,7 +270,7 @@ Then click on wwwroot
 <br />
 
 <p>
-<img src="https://i.imgur.com/mxMbDLE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20180630.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We are then going to move the upload folder from the osTicket-v1.15.8 to wwwroot
@@ -278,7 +278,7 @@ We are then going to move the upload folder from the osTicket-v1.15.8 to wwwroot
 <br />
 
 <p>
-<img src="https://i.imgur.com/amhKrWD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20180656.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we rename the folder to osTicket
@@ -286,7 +286,7 @@ Next we rename the folder to osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/uxsgJLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181105.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After that we go back to IIS Manager and select the osTicket folder. after that we click browse under Browse Folder
@@ -294,7 +294,7 @@ After that we go back to IIS Manager and select the osTicket folder. after that 
 <br />
 
 <p>
-<img src="https://i.imgur.com/r1mJf48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It will then take us to this screen. as we can see there are a few things not checkmarked so we are going to fix that.
@@ -302,7 +302,7 @@ It will then take us to this screen. as we can see there are a few things not ch
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ia4M8Rm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181611.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We go back to IIS manager and select PHP Manager
@@ -310,14 +310,14 @@ We go back to IIS manager and select PHP Manager
 <br />
 
 <p>
-<img src="https://i.imgur.com/Kz4XgEt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181647.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then select Enable or disable extensions
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/t1MKFhS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181925.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Make sure these exact extensions are Enabled
@@ -325,7 +325,7 @@ Make sure these exact extensions are Enabled
 <br />
 
 <p>
-<img src="https://i.imgur.com/Oj5eWQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20181925.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now it should show the majority checkmarked except for the bottom two.
@@ -336,7 +336,7 @@ Now it should show the majority checkmarked except for the bottom two.
 
 
 <p>
-<img src="https://i.imgur.com/j27Qjuw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20183717.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will go back to files, select inetpub, then click on the osTicket folder
@@ -344,7 +344,7 @@ Next we will go back to files, select inetpub, then click on the osTicket folder
 <br />
 
 <p>
-<img src="https://i.imgur.com/KqHEjlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20183823.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then we select include
@@ -352,7 +352,7 @@ Then we select include
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZD9mfYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20184030.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After selecting Include we will look for a file named ost-sampleconfig.php and rename the file to ost-config.php.
@@ -360,7 +360,7 @@ After selecting Include we will look for a file named ost-sampleconfig.php and r
 <br />
 
 <p>
-<img src="https://i.imgur.com/oAdqQaz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20184218.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next right click the folder and it should take you here. go to permissions and allow everyone to have full control then click ok
@@ -368,7 +368,7 @@ Next right click the folder and it should take you here. go to permissions and a
 <br />
 
 <p>
-<img src="https://i.imgur.com/uYliVzj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20185753.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then go back to the instalation screen and add our information
@@ -376,7 +376,7 @@ We then go back to the instalation screen and add our information
 <br />
 
 <p>
-<img src="https://i.imgur.com/RewzOez.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190405.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will install HeidiSQL
@@ -384,7 +384,7 @@ Next we will install HeidiSQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/Vz2Efhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190441.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Launch HeidiSQL then click Finish
@@ -392,7 +392,7 @@ Launch HeidiSQL then click Finish
 <br />
 
 <p>
-<img src="https://i.imgur.com/hxVtHX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190441.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It will then take you here. make sure you put in the user and password. they should both be "root", then press open
@@ -400,7 +400,7 @@ It will then take you here. make sure you put in the user and password. they sho
 <br />
 
 <p>
-<img src="https://i.imgur.com/BJDkasz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190635.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next go to create new, then database
@@ -408,7 +408,7 @@ Next go to create new, then database
 <br />
 
 <p>
-<img src="https://i.imgur.com/90bXdMQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190704.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then type in osTicket and click OK
@@ -416,14 +416,14 @@ Then type in osTicket and click OK
 <br />
 
 <p>
-<img src="https://i.imgur.com/bPMtqKS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20190814.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 after That it should take you here. make the Database,Username, and Password are correct then press Install Now
 <p>
-<img src="https://i.imgur.com/B74xV06.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/refs/heads/main/Screenshot%202025-06-12%20191127.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We have now finished the Pre Installation process
