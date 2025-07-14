@@ -44,7 +44,7 @@ After we create the virtual machine, we will put it's public IP address into the
 <br />
 
 <p>
-<img src="https://i.imgur.com/V9F0gIG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/c7531252faeac566f050ab221ff7810aec84d5ce/images/Screenshot%202025-06-12%20150935.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once we are in the Remote Desktop we then go to files,then downloads and find the osTicket installation file
@@ -52,7 +52,7 @@ Once we are in the Remote Desktop we then go to files,then downloads and find th
 <br />
 
 <p>
-<img src="https://i.imgur.com/HSo8piS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/c7531252faeac566f050ab221ff7810aec84d5ce/images/Screenshot%202025-06-12%20151127.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then Extract the files
