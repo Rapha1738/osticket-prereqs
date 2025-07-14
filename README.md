@@ -60,7 +60,7 @@ We then Extract the files
 <br />
 
 <p>
-<img src="https://i.imgur.com/AioLKCb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20151529.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we go to control Panel and click uninstall a program under programs
@@ -100,7 +100,7 @@ Next we Install IIS URL Rewrite Module 2 Setup
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZvT1k5Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153026.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After that we are going to create a new folder for PHP
@@ -108,7 +108,7 @@ After that we are going to create a new folder for PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/TkmLznj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153108.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 create the folder.(Make sure they are in Uppercase Lettering).
@@ -124,7 +124,7 @@ Next we will go to the PHP zipped file
 <br />
 
 <p>
-<img src="https://i.imgur.com/NoCh51s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Extract the Folder.
@@ -132,7 +132,7 @@ Extract the Folder.
 <br />
 
 <p>
-<img src="https://i.imgur.com/kg2xyXD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153410.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We then make sure everything has been Extracted.
@@ -148,7 +148,7 @@ Next we Install VC_redist.x86
 <br />
 
 <p>
-<img src="https://i.imgur.com/zBQYkTo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153600.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It will take us here. We are going to Install
@@ -156,7 +156,7 @@ It will take us here. We are going to Install
 <br />
 
 <p>
-<img src="https://i.imgur.com/hKiY5Gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153715.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will install mysql-5.5.62-win32
@@ -166,7 +166,7 @@ Next we will install mysql-5.5.62-win32
 
 
 <p>
-<img src="https://i.imgur.com/ItGjuby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153856.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We will press next
@@ -174,7 +174,7 @@ We will press next
 <br />
 
 <p>
-<img src="https://i.imgur.com/B8UARpM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/9ed16244e32d43e3cf21b035c9d79b13405f7f03/images/Screenshot%202025-06-12%20153932.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Set the configuration to standard then press next
@@ -190,7 +190,7 @@ Set the configuration to standard then press next
 <br />
 
 <p>
-<img src="https://i.imgur.com/sPt06Jk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/Rapha1738/RaphaKijangwa/d9940bd41c79db1959a7f1aff773ddfd56dd808c/images/Screenshot%202025-06-12%20155123.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 we then make sure everything is checkmarked then click finish
